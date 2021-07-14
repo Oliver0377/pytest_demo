@@ -1,0 +1,57 @@
+{
+  "uid" : "59327b151434c395",
+  "name" : "test_skip",
+  "fullName" : "pycode_demo.test_alluredemo01#test_skip",
+  "historyId" : "e4c3b583fff31164537d831e9e8f6eaf",
+  "time" : {
+    "start" : 1626185680534,
+    "stop" : 1626185680534,
+    "duration" : 0
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('E:\\\\python code\\\\pytest_demo\\\\pycode_demo\\\\test_alluredemo01.py', 16, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pycode_demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_alluredemo01"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-K8PRO4TP"
+  }, {
+    "name" : "thread",
+    "value" : "17088-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pycode_demo.test_alluredemo01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59327b151434c395.json",
+  "parameterValues" : [ ]
+}

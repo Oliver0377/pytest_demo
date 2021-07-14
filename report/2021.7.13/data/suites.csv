@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Jul 13 22:14:40 CST 2021","Tue Jul 13 22:14:40 CST 2021","0","pycode_demo","test_alluredemo01","","","","test_failure","this test fails"
+"broken","Tue Jul 13 22:14:40 CST 2021","Tue Jul 13 22:14:40 CST 2021","0","pycode_demo","test_alluredemo01","","","","test_broken",""
+"skipped","Tue Jul 13 22:14:40 CST 2021","Tue Jul 13 22:14:40 CST 2021","0","pycode_demo","test_alluredemo01","","","","test_skip","this test is skipped"
+"passed","Tue Jul 13 22:14:40 CST 2021","Tue Jul 13 22:14:40 CST 2021","0","pycode_demo","test_alluredemo01","","","","test_success","this test succeeds"
